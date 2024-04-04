@@ -1,6 +1,6 @@
 package com.javaex.ex05;
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class CalcApp {
@@ -51,5 +51,6 @@ public class CalcApp {
 	    	}
 	    	
     	}
+    	sc.close();
     }
 }
